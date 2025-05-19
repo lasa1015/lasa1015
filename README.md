@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sha Luo
 
-<!--
-**lasa1015/lasa1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a background in computer science.  
+I enjoy building full-stack applications and deploying them on the cloud.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Backend: Java (Spring Boot), Python (Flask)
+- Frontend: React, TypeScript, Tailwind CSS
+- DevOps: Docker, GitHub Actions, Jenkins, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🔗 [SnapBite](https://github.com/lasa1015/snapbite-microservices-platform)
+- 🔗 [Tourwise](https://github.com/lasa1015/tourwise-springboot-react)
+- 🔗 [DBBikes](https://github.com/lasa1015/dbbikes-platform)
+
+## Contact
+- Email: your.email@example.com
