@@ -1,4 +1,4 @@
-#### Hi, I am Sha Luo
+#### Hi, I am Sha
 
 I'm a fullstack software engineer with a master's degree in **Computer Science** from **University College Dublin (First Class Honours)**.<br/>
 Currently holding a **Stamp 1G** visa and actively seeking software engineering opportunities.
